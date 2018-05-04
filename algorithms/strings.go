@@ -11,4 +11,13 @@ func LongestUniqueSubstring(k int, s string) string {
 
 	}
 	return ""
-}*/
+}
+
+func WordBreak(in_words []string, sentence string) out_words []string {
+
+}
+*/
+
+func SentenceGenerator(words []string, sentence string) string {
+	
+}
